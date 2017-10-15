@@ -11592,7 +11592,7 @@
       ],
       "days": {
         "01-01 and if sunday then next monday if saturday then previous friday": {
-          "substitute": true,
+          "substitute": false,
           "_name": "01-01"
         },
         "3rd monday in January": {
@@ -11619,7 +11619,7 @@
           "type": "observance"
         },
         "07-04 and if sunday then next monday if saturday then previous friday": {
-          "substitute": true,
+          "substitute": false,
           "_name": "Independence Day"
         },
         "monday in September": {
@@ -11878,17 +11878,6 @@
             "monday before 05-01": {
               "name": {
                 "en": "Confederate Memorial Day"
-              }
-            },
-            "12-24": {
-              "name": {
-                "en": "Washington's Birthday"
-              }
-            },
-            "substitutes 12-24 if wednesday then next friday": {
-              "substitute": true,
-              "name": {
-                "en": "Washington's Birthday"
               }
             }
           }
