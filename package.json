@@ -1,12 +1,12 @@
 {
-  "name": "date-holidays",
-  "version": "1.1.0",
-  "description": "worldwide holidays",
+  "name": "coparenter-date-holidays",
+  "version": "1.1.1",
+  "description": "coparenter worldwide holidays based off of date-holidays from commenthol",
   "keywords": [
     "holidays",
     "world"
   ],
-  "homepage": "https://github.com/commenthol/date-holidays",
+  "homepage": "https://github.com:nielswh/date-holidays",
   "bugs": {
     "url": "https://github.com/commenthol/date-holidays/issues"
   },
